@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(42,93,90,1);
+}
+h1{
+    width: 636px;
+    height: 116px;
+    background-color: #311313;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 64px;
+}
+.p{
+    background-color: black;
+    width: 1000px;
+    height: 638px;
+    border: 5px solid red;
+    margin: 0 auto;
+}
+.y{
+    background-color: #1FE8B7;
+    margin-left: 50px;
+    margin-right: 30px;
+    width: 896px;
+    height: 259px;
+    font-size: 30px;
+}
